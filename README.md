@@ -21,7 +21,7 @@ pyinstaller
 
 #  使用方法
 
-测试运行可在main.py中直接运行
+本地新建一个项目，直接将main.py与base.py的源代码拷贝进去，运行main.py即可
 
 打包成exe并运行时，可以在项目路径下打开命令行窗口执行指令
 ```cmd
